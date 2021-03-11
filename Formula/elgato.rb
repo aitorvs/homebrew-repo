@@ -1,9 +1,9 @@
 class Elgato < Formula
   desc "A command line too to control the elgato key lights"
   homepage "https://github.com/aitorvs/elgato"
-  url "https://github.com/aitorvs/elgato/releases/download/0.1.0/elgato-0.1.0-binary.jar"
-  version "0.1.0"
-  sha256 "a09d8287caf22d1027c0762d143a4da32045f9d9fdaca21a1ae8455d0288840a"
+  url "https://github.com/aitorvs/elgato/releases/download/0.2.0/elgato-0.2.0-binary.jar"
+  version "0.2.0"
+  sha256 "04e701c8c94d7a17ad5bbdbe53ce676b91acf90701b96a58420d80ee39d37868"
 
   bottle :unneeded
 
