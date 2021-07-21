@@ -1,9 +1,9 @@
 class Beeline < Formula
   desc "A tool for creating network routes that exclude given subnets"
   homepage "https://github.com/aitorvs/beeline"
-  url "https://github.com/aitorvs/beeline/releases/download/0.3.1/beeline-0.3.1-binary.jar"
-  version "0.3.1"
-  sha256 "add3f819fe505888ce5452d539ab2ad925b0b44352979a9132c9d3be29c7e527"
+  url "https://github.com/aitorvs/beeline/releases/download/0.4.0/beeline-0.4.0-binary.jar"
+  version "0.4.0"
+  sha256 "c43076e24bbdf7742277f495c33baec51933d8949e84c423f5f336ec731c6d76"
 
   bottle :unneeded
 
