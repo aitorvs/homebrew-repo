@@ -1,9 +1,9 @@
 class DdgCli < Formula
   desc "A tool for creating network routes that exclude given subnets"
   homepage "https://github.com/aitorvs/ddg-cli"
-  url "https://github.com/aitorvs/ddg-cli/releases/download/0.1.0/ddg-cli-0.1.0-binary.jar"
-  version "0.1.0"
-  sha256 "33ab58ed439aad5c6903f2e6e3df66a53d71274eef0b788a8c9ad5f85201e8c6"
+  url "https://github.com/aitorvs/ddg-cli/releases/download/0.2.0/ddg-cli-0.2.0-binary.jar"
+  version "0.2.0"
+  sha256 "32d374585eef02076be18a889cbe8886ca03c4d19ba4105cb0c29ca8e267e3a2"
 
   bottle :unneeded
 
